@@ -1,0 +1,61 @@
+{
+    // general colors / theme stuff
+
+    // theme
+    "workbench.colorTheme": "Tomorrow Night Eighties",
+    "workbench.iconTheme": "vs-nomo-dark", 
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.colorCustomizations": {
+        "[Tomorrow Night Eighties]": {
+            "statusBar.noFolderBackground": "#3c3c3c",
+            "statusBar.noFolderForeground": "#cccccc",
+            "statusBar.background": "#3c3c3c",
+            "statusBar.foreground": "#cccccc",
+            "statusBarItem.remoteBackground": "#333333",
+            "statusBarItem.remoteForeground": "#cccccc",
+        },
+    },
+
+    // indenticator
+    "indenticator.color.dark": "rgba(255,255,255,.1)", // adds a subtle indent guide (needs Indenticator extension)
+
+
+    // feature settings
+
+    // ssh
+    "remote.SSH.remotePlatform": {
+        "steal.dog": "linux",
+        "HomePC": "windows"
+    },
+
+
+    // git
+    "git.autofetch": true,
+    "git.confirmSync": false,
+
+
+    // zen stuff
+
+    // zen view
+    "editor.renderWhitespace": "none",
+    "editor.minimap.enabled": false,
+    "editor.renderIndentGuides": false,
+    "editor.renderLineHighlight": "none",
+    "editor.folding": false,
+    "editor.occurrencesHighlight": false,
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.cursorStyle": "line-thin",
+    "editor.cursorBlinking": "smooth",
+    "workbench.activityBar.visible": false, 
+    "explorer.openEditors.visible": 0,
+    "editor.lineNumbers": "off",
+
+
+    // zen functionality
+    "editor.autoClosingQuotes": "beforeWhitespace",
+    "editor.acceptSuggestionOnEnter": "off",
+    "workbench.settings.editor": "json",
+    "editor.matchBrackets": false
+}
