@@ -1,4 +1,4 @@
 # vscode-settings.json
 My personal preferred settings for VS Code
 
-Font: [https://github.com/tonsky/FiraCode](Fira Code)
+Font: [Fira Code](https://github.com/tonsky/FiraCode)
