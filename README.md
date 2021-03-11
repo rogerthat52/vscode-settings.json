@@ -1,4 +1,4 @@
-# vscode-settings.json
+# VS Code Settings
 My personal preferred settings for VS Code
 
 ## Font:
