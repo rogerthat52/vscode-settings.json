@@ -6,4 +6,6 @@ My personal preferred settings for VS Code
 
 ## Theme:
 [Tomorrow Night Eighties](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-TomorrowKit)
-## Required Extensions:
+
+## Extensions:
+[Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
